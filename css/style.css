@@ -1,0 +1,78 @@
+body{
+  color:gray;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   line-height: 1.4em;
+   margin:0px;
+   background-position: center;
+ }
+ header{
+   width:1140px;
+   margin:20px auto 20px auto;
+    background-color: #ffffff;
+    border-bottom-style: groove;
+    border-bottom-width: 20px;
+ }
+ #header{
+   display: inline-block;
+   }
+   #logo{
+     padding:0px;
+   }
+ #heading{
+   padding:0px 0px 0px 50px;
+ }
+ .container{
+   position: relative;
+   text-align: left;
+   color:black;
+ }
+ h1{
+   color:black;
+ }
+ #last-session{
+   background-image: url(images/list-bg.png);
+   border-bottom: groove;
+   border-bottom-width: 20px;
+   background-repeat: no-repeat;
+   background-position: right top;
+   background-attachment: fixed;
+  
+ }
+ ul{
+   list-style-type: none;
+   margin: 0px;
+   padding: 0pxx;
+   overflow: hidden;
+ }
+ li{
+   float: right;
+  margin: 2px;
+ }
+ 
+ main{
+   
+ width:1140px;
+   margin:20px auto 20px auto;
+    background-color: #ffffff;
+ }
+ #last-session li {
+   list-style-type: square ;
+   color:darkslategray;
+   font-style:  italic, sans-serif
+ }
+ #box{
+   width:100px;
+   border: 1px solid black;
+   background:brown;
+   
+ }
+ footer{
+   border-image: 0ch;
+   border-width: 75%;
+   border-top-style:groove;
+   text-align: center;
+   font-size: 80%;
+   width:1140px;
+   
+ }
+ 
